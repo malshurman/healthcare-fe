@@ -6,6 +6,7 @@ import About from "../Components/About";
 import BookAppointment from "../Components/BookAppointment";
 import Reviews from "../Components/Reviews";
 import Doctors from "../Components/Doctors";
+import Appointments from "../Components/Appointments";
 import Footer from "../Components/Footer";
 
 function Home() {
@@ -18,6 +19,7 @@ function Home() {
       <BookAppointment />
       <Reviews />
       <Doctors />
+      <Appointments />
       <Footer />
     </div>
   );

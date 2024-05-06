@@ -62,6 +62,11 @@ function Navbar() {
             Doctors
           </a>
         </li>
+        <li>
+          <a href="#appointments" className="navbar-links">
+            Appointments
+          </a>
+        </li>
       </ul>
 
       <button
